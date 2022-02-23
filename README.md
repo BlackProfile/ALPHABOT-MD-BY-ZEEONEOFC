@@ -8,13 +8,13 @@
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/zeeoneofc/Alphabot-Md"><img title="Recode 1" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/BlackProfile/"><img title="Recode 2" src="https://img.shields.io/badge/Recode-BlackProfile-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/zeeoneofc/Alphabot-Md"><img title="Recode 1" src="https://img.shields.io/badge/Recode 1-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/BlackProfile/"><img title="Recode 2" src="https://img.shields.io/badge/Recode 2-BlackProfile-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
+<a href="https://github.com/BlackProfile/followers"><img title="Followers" src="https://img.shields.io/github/followers/BlackProfile?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/Alphabot-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Alphabot-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/Alphabot-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Alphabot-Md?color=red&style=flat-square"></a>
+<a href="https://github.com/BlackProfile/Alphabot-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Alphabot-Md?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/Alphabot-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/Alphabot-Md?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/Alphabot-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/zeeoneofc/Alphabot-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Alphabot-Md?style=flat-square&color=green"></a>
@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeoneofc/Alphabot-Md#requirements">Requirements</a> •
-  <a href="https://github.com/zeeoneofc/Alphabot-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeoneofc/Alphabot-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeoneofc/Alphabot-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeoneofc/Alphabot-Md#donate">Donate</a>
+  <a href="https://github.com/BlackProfile/ALPHABOT-MD-BY-ZEEONEOFC#requirements">Requirements</a> •
+  <a href="https://github.com/BlackProfile/ALPHABOT-MD-BY-ZEEONEOFC#instalasi">Installation</a> •
+  <a href="https://github.com/BlackProfile/ALPHABOT-MD-BY-ZEEONEOFC#thanks-to">Thanks to</a> •
+  <a href="https://github.com/BlackProfile/ALPHABOT-MD-BY-ZEEONEOFC#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/BlackProfile/ALPHABOT-MD-BY-ZEEONEOFC#donate">Donate</a>
 </p>
 </div>
 
@@ -36,7 +36,7 @@
 
 ## Information
 > Alpahbot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a Baileys library.
-> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
+* Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
@@ -45,9 +45,12 @@
 # Requirements
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (For sticker command)
 
 # Instalasi
+```bash
+Ekstrak dulu di file manager hp/pc mu
+```
 ## Heroku Buildpack
 ```bash
  heroku/nodejs
@@ -69,15 +72,22 @@ apt update && apt upgrade
 pkg install nodejs git ffmpeg
 git clone https://github.com/zeeoneofc/Alphabot-Md.git
 cd Alphabot-Md
-npm install
-node main
+pkg install yarn
+yarn
+npm start
+
+> jika eror ketik sebagai berikut :
+
+npm i -g typescript
+tsc -p ./node_modules/@adiwajshing/baileys-md/
+npm start
 ```
 
 ## Edit file
-- Change ownerNumber on [this section](https://github.com/zeeoneofc/aAlphabot-Md/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L2)
-- Change botName on [this section](https://github.com/zeeoneofc/Alphabot-Md/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L3)
-- You can edit list and display menu or donate on [this section](https://github.com/zeeoneofc/Alphabot-Md/blob/main/help/ind.js)
-- You can add fiture on [this section](https://github.com/zeeoneofc/Alphabot-Md/tree/main/message)
+- Change ownerNumber on setting.json or [Click Here](https://github.com/BlackProfile/ALPHABOT-MD-BY-ZEEONEOFC/edit/master/settings.js)
+- Change botName on setting.json or [Click Here](https://github.com/BlackProfile/ALPHABOT-MD-BY-ZEEONEOFC/edit/master/settings.js)
+- You can edit list and display message donate on indonesia.js or [Click Here](https://github.com/BlackProfile/ALPHABOT-MD-BY-ZEEONEOFC/edit/master/language/indonesia.js)
+- You can add or edit the future on index.js [Click Here](https://github.com/BlackProfile/ALPHABOT-MD-BY-ZEEONEOFC/edit/master/index.js)
 
 
 ## Installing the FFmpeg for Windows
@@ -124,4 +134,7 @@ Owner of Baileys | Owner of Api Alphabot |
 <a href="https://github.com/BlackProfile"><img src="https://github.com/Black.png?size=100" width="100" height="100" alt="wkwk"></a> | [![FAJAR](http://github.com/zeeone-ofc.png?size=25)](http://github.com/zeeone-ofc) 
 [BlackProfile](https://github.com/BlackProfile) | [ZeeoneOfc](https://zeeoneofc.github.io)
 Recode This Repo | Owner of Api Alphabot |
+
+##Analytics this repo
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackProfile&repo=ALPHABOT-MD-BY-ZEEONEOFC&theme=nightowl)
 
