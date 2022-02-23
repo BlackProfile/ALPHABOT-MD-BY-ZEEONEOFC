@@ -120,7 +120,7 @@ For Help | Owner Chikabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/zeeone-ofc.png?size=25)](http://github.com/zeeone-ofc) 
 [Adiwajshing](https://github.com/adiwajshing) | [ZeeoneOfc](https://zeeoneofc.github.io)
 Owner of Baileys | Owner of Api Alphabot |
-<a href="https://github.com/BlackProfile"><img src="https://github.com/BlackProfile.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/zeeone-ofc.png?size=25)](http://github.com/zeeone-ofc) 
-[Adiwajshing](https://github.com/adiwajshing) | [ZeeoneOfc](https://zeeoneofc.github.io)
-Owner of Baileys | Owner of Api Alphabot |
+<a href="https://github.com/BlackProfile"><img src="https://github.com/Black.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/zeeone-ofc.png?size=25)](http://github.com/zeeone-ofc) 
+[BlackProfile](https://github.com/BlackProfile) | [ZeeoneOfc](https://zeeoneofc.github.io)
+Recode This Repo | Owner of Api Alphabot |
 
