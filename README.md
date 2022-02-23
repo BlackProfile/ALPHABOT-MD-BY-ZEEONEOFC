@@ -1,5 +1,5 @@
 <p align="center">
-<img src="hthttps://github.com/zeeoneofc/Alphabot-Md/blob/v5/image/lol.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://a.top4top.io/p_2245ozfo90.jpg" alt="IMG ALPHABOT-MD" width="100"/>
 
 
 </p>
@@ -118,6 +118,9 @@ Constributor | For Help |
 [Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
 For Help | Owner Chikabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/zeeone-ofc.png?size=25)](http://github.com/zeeone-ofc) 
+[Adiwajshing](https://github.com/adiwajshing) | [ZeeoneOfc](https://zeeoneofc.github.io)
+Owner of Baileys | Owner of Api Alphabot |
+<a href="https://github.com/BlackProfile"><img src="https://github.com/BlackProfile.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/zeeone-ofc.png?size=25)](http://github.com/zeeone-ofc) 
 [Adiwajshing](https://github.com/adiwajshing) | [ZeeoneOfc](https://zeeoneofc.github.io)
 Owner of Baileys | Owner of Api Alphabot |
 
