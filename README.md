@@ -129,12 +129,12 @@ Constributor | For Help |
 <a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> | [![RASHID](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28) 
 [Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
 For Help | Owner Chikabot |
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/zeeone-ofc.png?size=20")](http://github.com/zeeone-ofc) 
+<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/zeeone-ofc.png?size=100")](http://github.com/zeeone-ofc) 
 [Adiwajshing](https://github.com/adiwajshing) | [ZeeoneOfc](https://zeeoneofc.github.io)
 Owner of Baileys | Owner of Api Alphabot |
-<a href="https://github.com/BlackProfile"><img src="https://github.com/Black.png?size=100" width="100" height="100" alt="BlackProfile"></a> | 
-[BlackProfile](https://github.com/BlackProfile) | 
-Recode This Repo | 
+<a href="https://github.com/BlackProfile"><img src="https://github.com/Black.png?size=100" width="100" height="100" alt="BlackProfile"></a>  
+[BlackProfile](https://github.com/BlackProfile) | [isi kl mau](https://top.lang)
+| Recode This Repo | isi kalo mau
 
 ## Analytics this repo
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackProfile&repo=ALPHABOT-MD-BY-ZEEONEOFC&theme=nightowl)
